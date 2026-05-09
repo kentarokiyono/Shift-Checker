@@ -1,0 +1,5 @@
+{
+  "name": "シフト同期 AI",
+  "description": "AIを活用したシフト管理アプリ。シフト表の写真をアップロードするだけで、自動的にカレンダーへ統合します。",
+  "requestFramePermissions": ["camera"]
+}
